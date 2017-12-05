@@ -1,0 +1,4 @@
+C:\Users\bunel\Documents\Lycée jean jacques rousseau montmorency\sio1\si4\TP2\ConversionKmMiles\Ex3DivisionEuclidienneSansVirgule\bin\Debug\Ex3DivisionEuclidienneSansVirgule.exe
+C:\Users\bunel\Documents\Lycée jean jacques rousseau montmorency\sio1\si4\TP2\ConversionKmMiles\Ex3DivisionEuclidienneSansVirgule\bin\Debug\Ex3DivisionEuclidienneSansVirgule.pdb
+C:\Users\bunel\Documents\Lycée jean jacques rousseau montmorency\sio1\si4\TP2\ConversionKmMiles\Ex3DivisionEuclidienneSansVirgule\obj\x86\Debug\Ex3DivisionEuclidienneSansVirgule.exe
+C:\Users\bunel\Documents\Lycée jean jacques rousseau montmorency\sio1\si4\TP2\ConversionKmMiles\Ex3DivisionEuclidienneSansVirgule\obj\x86\Debug\Ex3DivisionEuclidienneSansVirgule.pdb

@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TP3Conditionnelles Exercice 1", "TP3Conditionnelles\TP3Conditionnelles Exercice 1.csproj", "{DD88E31C-73FB-4010-A9CC-CF67D60EF0E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice 2ValeurAbsolue", "Exercice 2ValeurAbsolue\Exercice 2ValeurAbsolue.csproj", "{24BD372A-C437-4351-BACD-CE7B8F10A531}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice 4 théorème de pythagore", "Exercice 4 théorème de pythagore\Exercice 4 théorème de pythagore.csproj", "{8F0B0B69-D414-4EF3-86C7-573CC2C201A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice 3 Equations", "Exercice 3 Equations\Exercice 3 Equations.csproj", "{9499C883-1958-4FAF-A29A-DFAD96F6DC42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice 6 Finances ( à finir)", "Exercice 6 Finances\Exercice 6 Finances ( à finir).csproj", "{64C6124A-F399-43AE-BAFF-19178450BF08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice 5  Les menus", "Exercice 5  Les menus\Exercice 5  Les menus.csproj", "{7E4EC01D-030F-48F0-89B6-447F04A0B6D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice 7 équation 2nd degrés", "Exercice 7 équation 2nd degrés\Exercice 7 équation 2nd degrés.csproj", "{1685E5DE-FF37-4D06-ABA1-E46327550152}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD88E31C-73FB-4010-A9CC-CF67D60EF0E8}.Debug|x86.ActiveCfg = Debug|x86
+		{DD88E31C-73FB-4010-A9CC-CF67D60EF0E8}.Release|x86.ActiveCfg = Release|x86
+		{24BD372A-C437-4351-BACD-CE7B8F10A531}.Debug|x86.ActiveCfg = Debug|x86
+		{24BD372A-C437-4351-BACD-CE7B8F10A531}.Release|x86.ActiveCfg = Release|x86
+		{8F0B0B69-D414-4EF3-86C7-573CC2C201A7}.Debug|x86.ActiveCfg = Debug|x86
+		{8F0B0B69-D414-4EF3-86C7-573CC2C201A7}.Release|x86.ActiveCfg = Release|x86
+		{9499C883-1958-4FAF-A29A-DFAD96F6DC42}.Debug|x86.ActiveCfg = Debug|x86
+		{9499C883-1958-4FAF-A29A-DFAD96F6DC42}.Release|x86.ActiveCfg = Release|x86
+		{9499C883-1958-4FAF-A29A-DFAD96F6DC42}.Release|x86.Build.0 = Release|x86
+		{64C6124A-F399-43AE-BAFF-19178450BF08}.Debug|x86.ActiveCfg = Debug|x86
+		{64C6124A-F399-43AE-BAFF-19178450BF08}.Release|x86.ActiveCfg = Release|x86
+		{64C6124A-F399-43AE-BAFF-19178450BF08}.Release|x86.Build.0 = Release|x86
+		{7E4EC01D-030F-48F0-89B6-447F04A0B6D3}.Debug|x86.ActiveCfg = Debug|x86
+		{7E4EC01D-030F-48F0-89B6-447F04A0B6D3}.Release|x86.ActiveCfg = Release|x86
+		{7E4EC01D-030F-48F0-89B6-447F04A0B6D3}.Release|x86.Build.0 = Release|x86
+		{1685E5DE-FF37-4D06-ABA1-E46327550152}.Debug|x86.ActiveCfg = Debug|x86
+		{1685E5DE-FF37-4D06-ABA1-E46327550152}.Debug|x86.Build.0 = Debug|x86
+		{1685E5DE-FF37-4D06-ABA1-E46327550152}.Release|x86.ActiveCfg = Release|x86
+		{1685E5DE-FF37-4D06-ABA1-E46327550152}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

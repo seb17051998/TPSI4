@@ -1,0 +1,10 @@
+G:\Lycée jean jacques rousseau\SI4\TP\TP4\Exercice 3\bin\Debug\Exercice 3.exe
+G:\Lycée jean jacques rousseau\SI4\TP\TP4\Exercice 3\bin\Debug\Exercice 3.pdb
+G:\Lycée jean jacques rousseau\SI4\TP\TP4\Exercice 3\obj\x86\Debug\Exercice 3.exe
+G:\Lycée jean jacques rousseau\SI4\TP\TP4\Exercice 3\obj\x86\Debug\Exercice 3.pdb
+G:\Lycée jean jacques rousseau\SI4\TP\TP4\Exercice 3\obj\x86\Debug\Exercice 3.csprojResolveAssemblyReference.cache
+L:\Lycée jean jacques rousseau\SI4\TP\TP4\Exercice 3\bin\Debug\Exercice 3.exe
+L:\Lycée jean jacques rousseau\SI4\TP\TP4\Exercice 3\bin\Debug\Exercice 3.pdb
+L:\Lycée jean jacques rousseau\SI4\TP\TP4\Exercice 3\obj\x86\Debug\Exercice 3.csprojResolveAssemblyReference.cache
+L:\Lycée jean jacques rousseau\SI4\TP\TP4\Exercice 3\obj\x86\Debug\Exercice 3.exe
+L:\Lycée jean jacques rousseau\SI4\TP\TP4\Exercice 3\obj\x86\Debug\Exercice 3.pdb

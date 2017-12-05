@@ -1,0 +1,2 @@
+C:\Users\bunel\Documents\Lycée jean jacques rousseau montmorency\BTS SIO 1ère année\TP3Conditionnelles 03102016\Exercice 6 Finances\obj\x86\Debug\Exercice 6 Finances.exe
+G:\Lycée jean jacques rousseau\SI4\TP\TP3Conditionnelles 03102016\Exercice 6 Finances\obj\x86\Debug\Exercice 6 Finances.exe

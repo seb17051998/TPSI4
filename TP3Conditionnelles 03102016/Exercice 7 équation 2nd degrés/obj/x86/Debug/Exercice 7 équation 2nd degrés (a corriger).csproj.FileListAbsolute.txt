@@ -1,0 +1,5 @@
+C:\Users\bunel\Documents\Lycée jean jacques rousseau montmorency\BTS SIO 1ère année\TP3Conditionnelles 03102016\Exercice 7 équation 2nd degrés\bin\Debug\Exercice 7 équation 2nd degrés.exe
+C:\Users\bunel\Documents\Lycée jean jacques rousseau montmorency\BTS SIO 1ère année\TP3Conditionnelles 03102016\Exercice 7 équation 2nd degrés\bin\Debug\Exercice 7 équation 2nd degrés.pdb
+C:\Users\bunel\Documents\Lycée jean jacques rousseau montmorency\BTS SIO 1ère année\TP3Conditionnelles 03102016\Exercice 7 équation 2nd degrés\obj\x86\Debug\Exercice 7 équation 2nd degrés.exe
+C:\Users\bunel\Documents\Lycée jean jacques rousseau montmorency\BTS SIO 1ère année\TP3Conditionnelles 03102016\Exercice 7 équation 2nd degrés\obj\x86\Debug\Exercice 7 équation 2nd degrés.pdb
+C:\Users\bunel\Documents\Lycée jean jacques rousseau montmorency\BTS SIO 1ère année\TP3Conditionnelles 03102016\Exercice 7 équation 2nd degrés\obj\x86\Debug\Exercice 7 équation 2nd degrés (a corriger).csprojResolveAssemblyReference.cache

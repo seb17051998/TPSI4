@@ -1,0 +1,4 @@
+L:\Lycée jean jacques rousseau\SI4\TP\TP3Conditionnelles 03102016\Exercice 2ValeurAbsolue\bin\Release\Exercice 2ValeurAbsolue.exe
+L:\Lycée jean jacques rousseau\SI4\TP\TP3Conditionnelles 03102016\Exercice 2ValeurAbsolue\bin\Release\Exercice 2ValeurAbsolue.pdb
+L:\Lycée jean jacques rousseau\SI4\TP\TP3Conditionnelles 03102016\Exercice 2ValeurAbsolue\obj\x86\Release\Exercice 2ValeurAbsolue.exe
+L:\Lycée jean jacques rousseau\SI4\TP\TP3Conditionnelles 03102016\Exercice 2ValeurAbsolue\obj\x86\Release\Exercice 2ValeurAbsolue.pdb

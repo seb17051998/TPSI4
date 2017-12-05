@@ -1,0 +1,4 @@
+L:\Lycée jean jacques rousseau\SI4\TP\TP3Conditionnelles 03102016\Exercice 4 théorème de pythagore\bin\Release\Exercice 4 théorème de pythagore.exe
+L:\Lycée jean jacques rousseau\SI4\TP\TP3Conditionnelles 03102016\Exercice 4 théorème de pythagore\bin\Release\Exercice 4 théorème de pythagore.pdb
+L:\Lycée jean jacques rousseau\SI4\TP\TP3Conditionnelles 03102016\Exercice 4 théorème de pythagore\obj\x86\Release\Exercice 4 théorème de pythagore.exe
+L:\Lycée jean jacques rousseau\SI4\TP\TP3Conditionnelles 03102016\Exercice 4 théorème de pythagore\obj\x86\Release\Exercice 4 théorème de pythagore.pdb

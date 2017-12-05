@@ -1,0 +1,4 @@
+C:\Users\bunel\Documents\Lycée jean jacques rousseau montmorency\sio1\si4\TP2\ConversionKmMiles\ConversionKmMiles\bin\Debug\ConversionKmMiles.exe
+C:\Users\bunel\Documents\Lycée jean jacques rousseau montmorency\sio1\si4\TP2\ConversionKmMiles\ConversionKmMiles\bin\Debug\ConversionKmMiles.pdb
+C:\Users\bunel\Documents\Lycée jean jacques rousseau montmorency\sio1\si4\TP2\ConversionKmMiles\ConversionKmMiles\obj\x86\Debug\ConversionKmMiles.exe
+C:\Users\bunel\Documents\Lycée jean jacques rousseau montmorency\sio1\si4\TP2\ConversionKmMiles\ConversionKmMiles\obj\x86\Debug\ConversionKmMiles.pdb

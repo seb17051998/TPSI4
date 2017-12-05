@@ -1,0 +1,9 @@
+G:\Lycée jean jacques rousseau\SI4\TP\TP4\Exercice 4 Menu\bin\Debug\Exercice 4 Menu.exe
+G:\Lycée jean jacques rousseau\SI4\TP\TP4\Exercice 4 Menu\bin\Debug\Exercice 4 Menu.pdb
+G:\Lycée jean jacques rousseau\SI4\TP\TP4\Exercice 4 Menu\obj\x86\Debug\Exercice 4 Menu.exe
+G:\Lycée jean jacques rousseau\SI4\TP\TP4\Exercice 4 Menu\obj\x86\Debug\Exercice 4 Menu.pdb
+L:\Lycée jean jacques rousseau\SI4\TP\TP4\Exercice 4 Menu\obj\x86\Debug\Exercice 4 Menu.exe
+L:\Lycée jean jacques rousseau\SI4\TP\TP4\Exercice 4 Menu\obj\x86\Debug\Exercice 4 Menu.pdb
+L:\Lycée jean jacques rousseau\SI4\TP\TP4\Exercice 4 Menu\bin\Debug\Exercice 4 Menu.exe
+L:\Lycée jean jacques rousseau\SI4\TP\TP4\Exercice 4 Menu\bin\Debug\Exercice 4 Menu.pdb
+G:\Lycée jean jacques rousseau\SI4\TP\TP4\Exercice 4 Menu\obj\x86\Debug\Exercice 4 Menu.csprojResolveAssemblyReference.cache

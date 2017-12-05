@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "minMaxProcedural", "foncMinMax\minMaxProcedural.csproj", "{B4ADF52B-8542-45B5-B5F6-51D9A4FB17F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "minMaxProcSansParm", "minMaxProcSansParm\minMaxProcSansParm.csproj", "{12D24378-C0F2-49A9-8202-72EA954F3499}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "minMaxProcAvecParm", "minMaxProcAvecParm\minMaxProcAvecParm.csproj", "{2813E6ED-F815-40C5-BA9A-C19CB47B35EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "minMaxFonc", "minMaxFonc\minMaxFonc.csproj", "{14DC021F-5222-46A4-80CB-BA9C68250DFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4ADF52B-8542-45B5-B5F6-51D9A4FB17F2}.Debug|x86.ActiveCfg = Debug|x86
+		{B4ADF52B-8542-45B5-B5F6-51D9A4FB17F2}.Debug|x86.Build.0 = Debug|x86
+		{B4ADF52B-8542-45B5-B5F6-51D9A4FB17F2}.Release|x86.ActiveCfg = Release|x86
+		{B4ADF52B-8542-45B5-B5F6-51D9A4FB17F2}.Release|x86.Build.0 = Release|x86
+		{12D24378-C0F2-49A9-8202-72EA954F3499}.Debug|x86.ActiveCfg = Debug|x86
+		{12D24378-C0F2-49A9-8202-72EA954F3499}.Debug|x86.Build.0 = Debug|x86
+		{12D24378-C0F2-49A9-8202-72EA954F3499}.Release|x86.ActiveCfg = Release|x86
+		{12D24378-C0F2-49A9-8202-72EA954F3499}.Release|x86.Build.0 = Release|x86
+		{2813E6ED-F815-40C5-BA9A-C19CB47B35EF}.Debug|x86.ActiveCfg = Debug|x86
+		{2813E6ED-F815-40C5-BA9A-C19CB47B35EF}.Debug|x86.Build.0 = Debug|x86
+		{2813E6ED-F815-40C5-BA9A-C19CB47B35EF}.Release|x86.ActiveCfg = Release|x86
+		{2813E6ED-F815-40C5-BA9A-C19CB47B35EF}.Release|x86.Build.0 = Release|x86
+		{14DC021F-5222-46A4-80CB-BA9C68250DFC}.Debug|x86.ActiveCfg = Debug|x86
+		{14DC021F-5222-46A4-80CB-BA9C68250DFC}.Debug|x86.Build.0 = Debug|x86
+		{14DC021F-5222-46A4-80CB-BA9C68250DFC}.Release|x86.ActiveCfg = Release|x86
+		{14DC021F-5222-46A4-80CB-BA9C68250DFC}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

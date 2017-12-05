@@ -1,0 +1,10 @@
+G:\Lycée jean jacques rousseau\SI4\TP\TP4\Exercice 4 Menu Fonction\bin\Debug\Exercice 4 Menu Fonction.exe
+G:\Lycée jean jacques rousseau\SI4\TP\TP4\Exercice 4 Menu Fonction\bin\Debug\Exercice 4 Menu Fonction.pdb
+G:\Lycée jean jacques rousseau\SI4\TP\TP4\Exercice 4 Menu Fonction\obj\x86\Debug\Exercice 4 Menu Fonction.exe
+G:\Lycée jean jacques rousseau\SI4\TP\TP4\Exercice 4 Menu Fonction\obj\x86\Debug\Exercice 4 Menu Fonction.pdb
+L:\Lycée jean jacques rousseau\SI4\TP\TP4\Exercice 4 Menu Fonction\obj\x86\Debug\Exercice 4 Menu Fonction.exe
+L:\Lycée jean jacques rousseau\SI4\TP\TP4\Exercice 4 Menu Fonction\obj\x86\Debug\Exercice 4 Menu Fonction.pdb
+L:\Lycée jean jacques rousseau\SI4\TP\TP4\Exercice 4 Menu Fonction\bin\Debug\Exercice 4 Menu Fonction.exe
+L:\Lycée jean jacques rousseau\SI4\TP\TP4\Exercice 4 Menu Fonction\bin\Debug\Exercice 4 Menu Fonction.pdb
+C:\Users\bunel\Documents\Lycée jean jacques rousseau montmorency\sio1\si4\TP4\Exercice 4 Menu Fonction\obj\x86\Debug\Exercice 4 Menu Fonction.exe
+C:\Users\bunel\Documents\Lycée jean jacques rousseau montmorency\sio1\si4\TP4\Exercice 4 Menu Fonction\obj\x86\Debug\Exercice 4 Menu Fonction.pdb

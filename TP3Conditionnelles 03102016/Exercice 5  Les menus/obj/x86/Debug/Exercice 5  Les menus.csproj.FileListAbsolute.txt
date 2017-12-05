@@ -1,0 +1,4 @@
+C:\Users\bunel\Documents\Lycée jean jacques rousseau montmorency\BTS SIO 1ère année\TP3Conditionnelles 03102016\Exercice 5  Les menus\bin\Debug\Exercice 5  Les menus.exe
+C:\Users\bunel\Documents\Lycée jean jacques rousseau montmorency\BTS SIO 1ère année\TP3Conditionnelles 03102016\Exercice 5  Les menus\bin\Debug\Exercice 5  Les menus.pdb
+C:\Users\bunel\Documents\Lycée jean jacques rousseau montmorency\BTS SIO 1ère année\TP3Conditionnelles 03102016\Exercice 5  Les menus\obj\x86\Debug\Exercice 5  Les menus.exe
+C:\Users\bunel\Documents\Lycée jean jacques rousseau montmorency\BTS SIO 1ère année\TP3Conditionnelles 03102016\Exercice 5  Les menus\obj\x86\Debug\Exercice 5  Les menus.pdb

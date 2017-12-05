@@ -1,0 +1,5 @@
+C:\Users\bunel\Documents\Lycée jean jacques rousseau montmorency\BTS SIO 1ère année\TP3Conditionnelles 03102016\Exercice 3 Equations\bin\Debug\Exercice 3 Equations.exe
+C:\Users\bunel\Documents\Lycée jean jacques rousseau montmorency\BTS SIO 1ère année\TP3Conditionnelles 03102016\Exercice 3 Equations\bin\Debug\Exercice 3 Equations.pdb
+C:\Users\bunel\Documents\Lycée jean jacques rousseau montmorency\BTS SIO 1ère année\TP3Conditionnelles 03102016\Exercice 3 Equations\obj\x86\Debug\Exercice 3 Equations.exe
+C:\Users\bunel\Documents\Lycée jean jacques rousseau montmorency\BTS SIO 1ère année\TP3Conditionnelles 03102016\Exercice 3 Equations\obj\x86\Debug\Exercice 3 Equations.pdb
+C:\Users\bunel\Documents\Lycée jean jacques rousseau montmorency\BTS SIO 1ère année\TP3Conditionnelles 03102016\Exercice 3 Equations\obj\x86\Debug\Exercice 3 Equations.csprojResolveAssemblyReference.cache

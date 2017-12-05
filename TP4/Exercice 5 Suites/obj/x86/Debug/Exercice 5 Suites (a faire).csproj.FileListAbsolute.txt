@@ -1,0 +1,5 @@
+G:\Lycée jean jacques rousseau\SI4\TP\TP4\Exercice 5 Suites\bin\Debug\Exercice 5 Suites.exe
+G:\Lycée jean jacques rousseau\SI4\TP\TP4\Exercice 5 Suites\bin\Debug\Exercice 5 Suites.pdb
+G:\Lycée jean jacques rousseau\SI4\TP\TP4\Exercice 5 Suites\obj\x86\Debug\Exercice 5 Suites.exe
+G:\Lycée jean jacques rousseau\SI4\TP\TP4\Exercice 5 Suites\obj\x86\Debug\Exercice 5 Suites.pdb
+G:\Lycée jean jacques rousseau\SI4\TP\TP4\Exercice 5 Suites\obj\x86\Debug\Exercice 5 Suites (a faire).csprojResolveAssemblyReference.cache

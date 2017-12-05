@@ -1,0 +1,8 @@
+G:\Lycée jean jacques rousseau\SI4\TP\TP4\Exercice 2\obj\x86\Debug\Exercice 2.exe
+G:\Lycée jean jacques rousseau\SI4\TP\TP4\Exercice 2\bin\Debug\Exercice 2.exe
+G:\Lycée jean jacques rousseau\SI4\TP\TP4\Exercice 2\bin\Debug\Exercice 2.pdb
+G:\Lycée jean jacques rousseau\SI4\TP\TP4\Exercice 2\obj\x86\Debug\Exercice 2.pdb
+L:\Lycée jean jacques rousseau\SI4\TP\TP4\Exercice 2\bin\Debug\Exercice 2.exe
+L:\Lycée jean jacques rousseau\SI4\TP\TP4\Exercice 2\bin\Debug\Exercice 2.pdb
+L:\Lycée jean jacques rousseau\SI4\TP\TP4\Exercice 2\obj\x86\Debug\Exercice 2.exe
+L:\Lycée jean jacques rousseau\SI4\TP\TP4\Exercice 2\obj\x86\Debug\Exercice 2.pdb

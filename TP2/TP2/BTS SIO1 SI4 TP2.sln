@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex1ConversionKmMiles", "ConversionKmMiles\Ex1ConversionKmMiles.csproj", "{145CA982-3180-4DCB-86C2-7405D91B19B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex2AirePerimetreRectangle", "Ex2AirePerimetreRectangle\Ex2AirePerimetreRectangle.csproj", "{26AE2B5D-E78C-47E3-9D8F-91F9DD45F0D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex3DivisionEuclidienneSansVirgule", "Ex3DivisionEuclidienneSansVirgule\Ex3DivisionEuclidienneSansVirgule.csproj", "{E48244FE-B63D-44C9-B76F-0768658957CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex4PermutationDeValeur", "Ex4PermutationDeValeur\Ex4PermutationDeValeur.csproj", "{B8C36BF7-66B6-457A-8EDC-111B2F81269B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{145CA982-3180-4DCB-86C2-7405D91B19B7}.Debug|x86.ActiveCfg = Debug|x86
+		{145CA982-3180-4DCB-86C2-7405D91B19B7}.Debug|x86.Build.0 = Debug|x86
+		{145CA982-3180-4DCB-86C2-7405D91B19B7}.Release|x86.ActiveCfg = Release|x86
+		{145CA982-3180-4DCB-86C2-7405D91B19B7}.Release|x86.Build.0 = Release|x86
+		{26AE2B5D-E78C-47E3-9D8F-91F9DD45F0D9}.Debug|x86.ActiveCfg = Debug|x86
+		{26AE2B5D-E78C-47E3-9D8F-91F9DD45F0D9}.Debug|x86.Build.0 = Debug|x86
+		{26AE2B5D-E78C-47E3-9D8F-91F9DD45F0D9}.Release|x86.ActiveCfg = Release|x86
+		{26AE2B5D-E78C-47E3-9D8F-91F9DD45F0D9}.Release|x86.Build.0 = Release|x86
+		{E48244FE-B63D-44C9-B76F-0768658957CD}.Debug|x86.ActiveCfg = Debug|x86
+		{E48244FE-B63D-44C9-B76F-0768658957CD}.Debug|x86.Build.0 = Debug|x86
+		{E48244FE-B63D-44C9-B76F-0768658957CD}.Release|x86.ActiveCfg = Release|x86
+		{E48244FE-B63D-44C9-B76F-0768658957CD}.Release|x86.Build.0 = Release|x86
+		{B8C36BF7-66B6-457A-8EDC-111B2F81269B}.Debug|x86.ActiveCfg = Debug|x86
+		{B8C36BF7-66B6-457A-8EDC-111B2F81269B}.Debug|x86.Build.0 = Debug|x86
+		{B8C36BF7-66B6-457A-8EDC-111B2F81269B}.Release|x86.ActiveCfg = Release|x86
+		{B8C36BF7-66B6-457A-8EDC-111B2F81269B}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

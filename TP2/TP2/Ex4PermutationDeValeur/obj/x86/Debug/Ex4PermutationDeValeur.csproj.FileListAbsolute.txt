@@ -1,0 +1,6 @@
+C:\Users\bunel\Documents\Lycée jean jacques rousseau montmorency\sio1\si4\TP2\ConversionKmMiles\Ex4PermutationDeValeur\bin\Debug\Ex4PermutationDeValeur.exe
+C:\Users\bunel\Documents\Lycée jean jacques rousseau montmorency\sio1\si4\TP2\ConversionKmMiles\Ex4PermutationDeValeur\bin\Debug\Ex4PermutationDeValeur.pdb
+C:\Users\bunel\Documents\Lycée jean jacques rousseau montmorency\sio1\si4\TP2\ConversionKmMiles\Ex4PermutationDeValeur\obj\x86\Debug\Ex4PermutationDeValeur.exe
+C:\Users\bunel\Documents\Lycée jean jacques rousseau montmorency\sio1\si4\TP2\ConversionKmMiles\Ex4PermutationDeValeur\obj\x86\Debug\Ex4PermutationDeValeur.pdb
+C:\Users\bunel\Documents\Lycée jean jacques rousseau montmorency\sio1\si4\TP2\TP2\Ex4PermutationDeValeur\obj\x86\Debug\Ex4PermutationDeValeur.exe
+C:\Users\bunel\Documents\Lycée jean jacques rousseau montmorency\sio1\si4\TP2\TP2\Ex4PermutationDeValeur\obj\x86\Debug\Ex4PermutationDeValeur.pdb

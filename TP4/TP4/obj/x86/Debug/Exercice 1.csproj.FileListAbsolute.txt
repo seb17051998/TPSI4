@@ -1,0 +1,4 @@
+G:\Lycée jean jacques rousseau\SI4\TP\TP4\TP4\bin\Debug\TP4.exe
+G:\Lycée jean jacques rousseau\SI4\TP\TP4\TP4\bin\Debug\TP4.pdb
+G:\Lycée jean jacques rousseau\SI4\TP\TP4\TP4\obj\x86\Debug\TP4.exe
+G:\Lycée jean jacques rousseau\SI4\TP\TP4\TP4\obj\x86\Debug\TP4.pdb

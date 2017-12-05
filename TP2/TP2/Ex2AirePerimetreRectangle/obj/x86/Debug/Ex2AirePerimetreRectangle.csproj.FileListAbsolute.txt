@@ -1,0 +1,4 @@
+C:\Users\bunel\Documents\Lycée jean jacques rousseau montmorency\sio1\si4\TP2\ConversionKmMiles\Ex2AirePerimetreRectangle\bin\Debug\Ex2AirePerimetreRectangle.exe
+C:\Users\bunel\Documents\Lycée jean jacques rousseau montmorency\sio1\si4\TP2\ConversionKmMiles\Ex2AirePerimetreRectangle\bin\Debug\Ex2AirePerimetreRectangle.pdb
+C:\Users\bunel\Documents\Lycée jean jacques rousseau montmorency\sio1\si4\TP2\ConversionKmMiles\Ex2AirePerimetreRectangle\obj\x86\Debug\Ex2AirePerimetreRectangle.exe
+C:\Users\bunel\Documents\Lycée jean jacques rousseau montmorency\sio1\si4\TP2\ConversionKmMiles\Ex2AirePerimetreRectangle\obj\x86\Debug\Ex2AirePerimetreRectangle.pdb

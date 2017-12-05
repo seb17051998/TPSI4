@@ -1,0 +1,4 @@
+U:\SI4\TP\TP3Conditionnelles 03102016\Exercice 5  Menu\bin\Debug\Exercice 5  Menu.exe
+U:\SI4\TP\TP3Conditionnelles 03102016\Exercice 5  Menu\bin\Debug\Exercice 5  Menu.pdb
+U:\SI4\TP\TP3Conditionnelles 03102016\Exercice 5  Menu\obj\x86\Debug\Exercice 5  Menu.exe
+U:\SI4\TP\TP3Conditionnelles 03102016\Exercice 5  Menu\obj\x86\Debug\Exercice 5  Menu.pdb
